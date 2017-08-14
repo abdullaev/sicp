@@ -1,1 +1,1 @@
-# My solutions for SICP exercises
+# My solutions of SICP exercises
